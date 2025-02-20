@@ -1,0 +1,1 @@
+A simple Calculator app can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It should allow users to input numbers and perform calculations in a clear and straightforward manner. A responsive design ensures that the calculator works well on both desktop and mobile devices.
